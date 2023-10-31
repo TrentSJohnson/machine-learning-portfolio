@@ -13,10 +13,10 @@
 - Senetor Analysis
 
 ## Mathematical Projects
-- Lights Out! A Galois Feild Game
+- [Lights Out! A Galois Feild Game](https://github.com/TrentSJohnson/Lights-Out)
 
 ## Web App Projects
-- Fraternity Points Tracker
+- Fraternity Points Tracker 
 
 
 
