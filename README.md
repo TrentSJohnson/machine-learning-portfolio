@@ -1,7 +1,6 @@
 # Machine Learning Portfolio by Trent Johnson
 
 ## Kaggle Competitions
-- Robot Terrain Identification
 - IMDB Movie Revenue Prediction
 
 ## Deep Learning Projects
