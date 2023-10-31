@@ -9,6 +9,7 @@
 - Artificial Neural Network from scratch
 
 ## Data Project
+- Is the weather in your state acutally crazy? (Probably not)
 - Senetor Analysis
 
 ## Mathematical Projects
