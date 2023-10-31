@@ -13,7 +13,7 @@
 - Senetor Analysis
 
 ## Mathematical Projects
-- [Lights Out! A Galois Feild Game](https://github.com/TrentSJohnson/Lights-Out)
+- [Lights Out! A Galois Field Game](https://github.com/TrentSJohnson/Lights-Out)
 
 ## Web App Projects
 - Fraternity Points Tracker 
