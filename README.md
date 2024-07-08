@@ -16,7 +16,7 @@
 - Rust Two Phase Commit Multiprocess System
 - Go (Multithreaded/Goroutine) Binary Search Tree Comparitor
 - Simple Unix Shell
-- Compiler for a Sime Java Like Language
+- Compiler for a Java Like Language
 
 ## Other
 - [Lights Out! A Galois Field Game](https://github.com/TrentSJohnson/Lights-Out)
